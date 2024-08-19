@@ -1,0 +1,175 @@
+/* body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+    color: blue;
+}
+.main h1{
+    margin-bottom: 20px;
+}
+button{
+    display: inline-block;
+    color: red;
+    background-color: black;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 2px;
+    transition: 400ms;
+    padding: 10px;
+    text-decoration: none;
+    z-index: 100000;
+}
+img {
+    width: 0px;
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.joke-box {
+    background: #fafafa;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    min-height: 50px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+} */
+/* ------------------------------------------------------------------- */
+/* .outer{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    align-items: center;
+    color: black;
+    padding-top: 200px;
+} */
+
+/* -------------------------------------------------------------------- */
+/* temp convertor */
+/* body{
+    width: 200vh;
+    height: 100vh;
+    background-color: bisque;
+    display:grid;
+    place-items: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+/* ------------------------------------------------------------------------------ */
+/* fnial project */
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body {
+     border-color: aquamarine;
+     background-color: antiquewhite;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     display: flex;
+     flex-wrap: wrap;
+}
+button style start
+.btn-div{
+    position: fixed;
+    top: 7rem;
+    right: 1rem;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+button{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    padding: 0;
+    font-size: inherit;
+    font-family: inherit;
+}
+button.learn-more{
+    width: 12rem;
+    height: auto;
+}
+.note{
+    background-color: #fff;
+    margin: 30px 20px;
+    height: 200px;
+    width: 400px;
+    overflow-y: scroll;
+    margin-top: 7rem;
+    box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1),
+     inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+.fa-pen-to-square,
+.fa-trash-alt {
+    color: #fff;
+    padding: 10px;
+    background-color: red;
+    border-radius: 50%;
+}
+.fa-trash-alt{
+    background-color: green;
+} 
+.main{
+    padding: 10px;
+}
+.hidden{
+    display: none;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
